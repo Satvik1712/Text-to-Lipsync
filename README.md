@@ -28,11 +28,11 @@ hparams.py -> code for hyperparameters used in the training
 
 lipsync.py -> code for generating lipsync video.
 
-
-Publication: D. Kaushik, K. P. Karthik, T. Satvik Gupta and S. Vekkot, "Realistic Lip-Sync Generation from Text for Multimodal Applications," 2025 IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI), Gwalior, India, 2025, pp. 1-7, doi: 10.1109/IATMSI64286.2025.10984895.
-preprocess,py, Preprocessing.ipynb -> code for pre-processing
+preprocess.py, Preprocessing.ipynb -> code for pre-processing
 
 wav2lip_train.py -> code for training the model.
 
-
 texttosync.py -> Integrated code to get lip-sync video using a text input.
+
+
+Publication: D. Kaushik, K. P. Karthik, T. Satvik Gupta and S. Vekkot, "Realistic Lip-Sync Generation from Text for Multimodal Applications," 2025 IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI), Gwalior, India, 2025, pp. 1-7, doi: 10.1109/IATMSI64286.2025.10984895.
